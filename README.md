@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi,
+
+I starting learning Data Science specialization in R. I am very excited. 
